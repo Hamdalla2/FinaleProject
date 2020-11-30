@@ -18,9 +18,9 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "jsx": "react-native"
+    "jsx": "react"
   },
   "include": [
-    "src"
+    "frontend/src"
   ]
 }
